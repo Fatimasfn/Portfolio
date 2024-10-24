@@ -24,8 +24,8 @@ body {
 }
 a,
 a:any-link {
-  color: currentColor;
-  text-decoration: none;
+  color: palevioletred;
+  text-decoration: underline;
   border-bottom: 2px solid transparent;
   transition: border-color ease-in-out 0.3s;
 }
